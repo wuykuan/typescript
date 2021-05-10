@@ -21,5 +21,3 @@ console.log(t("lucifer", 28));
 function id(arg) {
     return arg;
 }
-1;
-var a = ["1"];

@@ -31,7 +31,3 @@ function t(name: string, age: number) {
 function id<T>(arg: T) : T{
     return arg
 }
-
-
-1
-const a: Array = ["1"];
